@@ -1,0 +1,1 @@
+main src/main.c src/client.c include/client.h src/server.c include/server.h ncurses
